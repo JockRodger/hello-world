@@ -9,4 +9,4 @@ It now includes steps for GitHub
 
 And explains local and remote branching
 
-Now using edit capability of VS Code
+Now using edit capability of VS Code via the main branch
