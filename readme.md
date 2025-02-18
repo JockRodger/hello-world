@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 And explains local and remote branching
+
+Now using edit capability of VS Code
